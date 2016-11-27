@@ -1,19 +1,42 @@
-# Phyton Web-Video Project 
 
-<h2> Eng- </h2> 
+                          #Phyton Movie Web Page Project#
 
-Hello, I am student in Udacity, my first project in the udacity :)
+  What is it?
+  -----------
 
-Project about,  Briefly movie information site.
+  This is my udacity project, Project to made Phton, Html, css and java script
 
-You can add more movie and you can use this project :) 
 
-<h2> Tr- </h2> 
+  Documentation
+  -------------
+  media.py =  inside to Movie Class,
+  entertainment_center.py = define to Movie detail 
+  fresh_tomatoes.py = Html, Css code you can check and change 
+  
+  thats all :) 
+  
+
+  Installation
+  ------------
+  
+  INSTALL is so easy, first you can check in your computer about the phyton, when ready to phton you can download project and run this     entertainment_center.py file you can see this project working :))
+  
+  
+  Licensing
+  ---------
+
+  Please see the file called LICENSE.
+
  
- Merhaba, Udacity'de öğrenciyim, bu oradaki ilk projem.
- 
- Proje hakkında, kısaca bir Film tanıtım sitesi. 
- 
- Proje kodlarından daha fazla film ekleyip istediğiniz şekilde kullanabilirsiniz. :)
- 
+
+  Contacts
+  --------
+
+     o If you want to be informed about this project, Feel free to send me a email
+       <a href="mailto:halil@hyasarsoy.com">halil@hyasarsoy.com</a>
+       
+
+
+   
+
  
