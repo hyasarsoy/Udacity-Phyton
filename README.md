@@ -1,5 +1,5 @@
 
-                          #Phyton Movie Web Page Project#
+                           Phyton Movie Web Page Project
 
   What is it?
   -----------
