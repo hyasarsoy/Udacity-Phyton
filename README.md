@@ -33,7 +33,7 @@
   --------
 
      o If you want to be informed about this project, Feel free to send me a email
-       mailto:halil@hyasarsoy.com
+       halil@hyasarsoy.com
        
 
 
