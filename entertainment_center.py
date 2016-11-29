@@ -1,10 +1,10 @@
-import fresh_tomatoes #import the file, file inside the html code :) 
+iimport fresh_tomatoes #import the file, file inside the html code :) 
 import media #import the mediapy
 
 #define the Movie
-finding_nemo = media.Movie("Finding Nemo", #Movie Name
-                        "Nemo", #Description
-                        "https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg", #İmage
+finding_nemo = media.Movie("Finding Nemo", #movie Name
+                        "Nemo", #description
+                        "https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg", #image
                         "https://www.youtube.com/watch?v=SPHfeNgogVs") #youtube link
 
 
