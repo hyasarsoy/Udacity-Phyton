@@ -1,4 +1,4 @@
-iimport fresh_tomatoes #import the file, file inside the html code :) 
+import fresh_tomatoes #import the file, file inside the html code
 import media #import the mediapy
 
 #define the Movie
