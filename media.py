@@ -1,4 +1,4 @@
-iimport webbrowser #import browser
+import webbrowser #import browser
 
 #define to class class inculude the movie detail, define the movie information
 class Movie ():
